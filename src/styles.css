@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background: linear-gradient(to right, #3e5cbe 0%, #733885 100%);
+  background: linear-gradient(to right,#317BB8,#8648AC); 
 }
 
 .container{
@@ -14,10 +14,11 @@ body{
 }
 
 .login-title-container{
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid gray;
 }
 
 .login-title{
+  font-family: "Roboto", sans-serif;
   padding: 17px;
   margin: auto;
   font-size: 1;  
@@ -37,7 +38,7 @@ body{
   border: 0;
   padding: 20px 0 10px 5px;
   box-sizing: border-box;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .password{
@@ -46,26 +47,28 @@ body{
   background: #ffffff;
   width: 100%;
   border: 0;
-  padding: 40px 0 10px 5px;
+  padding: 35px 0 10px 5px;
   box-sizing: border-box;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .forgotPassword{
-  font-family : monospace;
+  font-family : sans-serif;
+  color: gray;
   outline: 0;
   background: #ffffff;
   width: 100%;
   border: 0;
-  padding: 20px 0 20px 5px;
+  padding: 20px 0 25px 5px;
   box-sizing: border-box;
-  font-size: 14px;
+  font-size: 15px;
   text-align: left;
 }
 
 .login-button {
+  font-family : sans-serif;
   outline: 0;
-  background: #261caf;
+  background: #317BB8;
   width: 100%;
   border: 0;
   padding: 12px 0 12px 0;
@@ -75,16 +78,18 @@ body{
   margin: 0 0 13px 0;
 }
 .hr{
-	height:1px;
-  background-color: black;
+	height:1.5px;
+  background-color: gray;
 }
 
 p {
   margin: center;
+  color: gray;
   
 }
 p > a {
-  font-size: 16px;
-  color: rgb(17, 86, 126);
+  font-size: 15px;
+  color: #317BB8;
   text-decoration: none; 
+  font-family: "Roboto", sans-serif;
 }
