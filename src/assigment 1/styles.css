@@ -1,0 +1,90 @@
+body{
+  text-align: center;
+  background: linear-gradient(to right, #3e5cbe 0%, #733885 100%);
+}
+
+.container{
+  background: #fff;
+  width: 360px;
+  height: 385px;
+  margin: 150px auto 150px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+  flex-direction: column;
+}
+
+.login-title-container{
+  border-bottom: 1px solid black;
+}
+
+.login-title{
+  padding: 17px;
+  margin: auto;
+  font-size: 1;  
+  color: #000000;
+}
+
+.login-form{ 
+  padding: 20px 40px 10px 35px;
+  text-align: center;
+}
+
+.user{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #ffffff;
+  width: 100%;
+  border: 0;
+  padding: 20px 0 10px 5px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.password{
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #ffffff;
+  width: 100%;
+  border: 0;
+  padding: 40px 0 10px 5px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+
+.forgotPassword{
+  font-family : monospace;
+  outline: 0;
+  background: #ffffff;
+  width: 100%;
+  border: 0;
+  padding: 20px 0 20px 5px;
+  box-sizing: border-box;
+  font-size: 14px;
+  text-align: left;
+}
+
+.login-button {
+  outline: 0;
+  background: #261caf;
+  width: 100%;
+  border: 0;
+  padding: 12px 0 12px 0;
+  color: #FFFFFF;
+  font-size: 17px;
+  border-radius: 30px;
+  margin: 0 0 13px 0;
+}
+.hr{
+	height:1px;
+  background-color: black;
+}
+
+p {
+  margin: center;
+  
+}
+p > a {
+  font-size: 16px;
+  color: rgb(17, 86, 126);
+  text-decoration: none; 
+}
