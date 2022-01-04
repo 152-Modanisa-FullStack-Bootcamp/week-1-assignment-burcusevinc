@@ -1,3 +1,9 @@
+# For Execute
+Assigment-1 (Login Screen) : `yarn slf` 
+Assigment-2 (Linkedin Post) : `yarn swl` 
+Assigment-3 (JS Practice) : `yarn start` 
+
+
 # vanilla-js-template
 Vanilla JS Project template for Modanisa Bootcamp
 
