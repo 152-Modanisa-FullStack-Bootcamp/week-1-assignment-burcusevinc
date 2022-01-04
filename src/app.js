@@ -2,15 +2,15 @@ import "./styles.css";
 import axios from "axios";
 
 axios
-  .get("https://my-json-server.typicode.com/modanisatech/bootcamp-db/products")
-  .then((response) => {
-    // Firstly, log response to the console,
+  .get("https://my-json-server.typicode.com/modanisatech/bootcamp-db/products") //ürünleri döndürür.
+  .then((response) => { //sonuç döndürür.
+    // Firstly, log response to the console, //response u console a yazdır.
     // inspect the response and see that it has data field
 
     // Assign data field of the response to
     // products variable below by destructuring
     // You can use alias
-    const products = null;
+    const products = null; 
 
     // Print names of all product to the console
     // by calling foreach  method (use arrow function)

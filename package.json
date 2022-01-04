@@ -4,7 +4,9 @@
   "description": "Vanilla JS Project template for Modanisa Bootcamp",
   "main": "index.js",
   "scripts": {
-    "start": "yarn parcel src/index.html"
+    "start": "yarn parcel src/index.html",
+    "slf": "yarn parcel src/loginForm/index.html",
+    "swl" : "yarn parcel src/linkedinPost/index.html"
   },
   "repository": {
     "type": "git",

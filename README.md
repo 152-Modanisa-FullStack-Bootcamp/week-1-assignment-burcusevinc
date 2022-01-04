@@ -16,6 +16,9 @@ to the remote repository.
 
 
 ## Assignment-1 (Login Screen)
+
+For execute: `yarn slf` 
+
 For the first assigment, you need to prepare a login screen which is centered on the screen.
 
 ### Evaluation Criterion
@@ -28,6 +31,9 @@ For the first assigment, you need to prepare a login screen which is centered on
 
 
 ## Assignment-2 (Linkedin Post)
+
+For execute: `yarn swl`
+
 For this assigment, you need to prepare a Linkedin post.
 
 ### Evaluation Criterion
@@ -40,4 +46,7 @@ For this assigment, you need to prepare a Linkedin post.
 ![This is an image](./assets/linkedin-post.png)
 
 ## Assignment-3 (JS Practice)
+
+For execute: `yarn start` 
+
 This assigment is about JS. All the steps you need to complete written in app.js file.
