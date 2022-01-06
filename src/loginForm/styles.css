@@ -8,7 +8,7 @@ body{
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(to right,#317BB8,#8648AC); 
+  background-image: linear-gradient(to right bottom, #3478b7, #3a74b7, #4170b7, #496bb6, #5266b5, #5863b4, #5f5fb3, #655bb2, #6b58b2, #7055b1, #7652b0, #7c4eaf); 
   height: 100vh;
 }
 

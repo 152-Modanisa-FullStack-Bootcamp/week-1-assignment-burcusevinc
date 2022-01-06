@@ -1,5 +1,7 @@
 body {
-    background-color: #1328e977;
+    background-image: linear-gradient(to right bottom, #d5def5, #c4d0f2, #b4c3f0, #a5b5ed, #97a7e9, #8c9ae4, #838edf, #7a81da, #7372d2, #6e63c9, #6953bf, #6643b5);
+    margin: 0;
+    height: 100vh;
 }
 
 #content {
@@ -11,6 +13,7 @@ body {
 
 h3 {
     text-align: center;
+    color: #430f58;
 }
 
 .content-item{
