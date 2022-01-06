@@ -1,4 +1,4 @@
-# For Execute
+# Execute Code:
 Assigment-1 (Login Screen) : `yarn slf` 
 Assigment-2 (Linkedin Post) : `yarn swl` 
 Assigment-3 (JS Practice) : `yarn start` 
